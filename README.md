@@ -2,15 +2,12 @@
 
 Bienvenido a mi repositorio de **Proxmox VE**, donde recopilo guías paso a paso para implementar, configurar y gestionar infraestructuras de virtualización de forma profesional.
 
----
-
 ## 📑 Índice de Guías
 
 | Tema | Descripción |
 |------|-------------|
 | [💾 Montar Disco Externo para Backups]([https://github.com/blakpat/Proxmox/wiki/Montar-Disco-Externo-en-Proxmox-para-Backups)) | Configuración de discos externos para almacenamiento de backups sin perder datos existentes. |
 
----
 
 ## ¿Qué es Proxmox VE?
 
@@ -21,7 +18,6 @@ Bienvenido a mi repositorio de **Proxmox VE**, donde recopilo guías paso a paso
 - Sistema de backups integrado
 - Cluster de alta disponibilidad
 
----
 
 ## 📚 Categorías de Guías
 
@@ -49,7 +45,7 @@ Bienvenido a mi repositorio de **Proxmox VE**, donde recopilo guías paso a paso
 - Migración de máquinas virtuales
 - Gestión de recursos
 
----
+
 
 ## Contribuciones
 
@@ -59,7 +55,7 @@ Si encuentras errores, tienes sugerencias o quieres contribuir:
 2. Envía un **Pull Request** con tus cambios
 3. Asegúrate de seguir el formato de las guías existentes
 
----
+
 
 
 ## 📅 Información del Repositorio
@@ -69,7 +65,7 @@ Si encuentras errores, tienes sugerencias o quieres contribuir:
 **Licencia:** MIT  
 **Versión de Proxmox:** 8.x
 
----
+
 
 ## Roadmap
 
@@ -84,7 +80,7 @@ Próximas guías planificadas:
 - [ ] Configuración de firewall avanzado
 - [ ] Migración desde VMware/Hyper-V
 
----
+
 
 ## Estadísticas
 
@@ -92,8 +88,8 @@ Próximas guías planificadas:
 ![Última actualización](https://img.shields.io/badge/actualización-2025--12--01-green)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-orange)
 
----
+
 
 💡 *Cada guía incluye instrucciones detalladas, comandos probados y solución de problemas comunes para facilitar su implementación.*
 
----
+
