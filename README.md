@@ -7,6 +7,8 @@ Bienvenido a mi repositorio de **Proxmox VE**, donde recopilo guías paso a paso
 | Tema | Descripción |
 |------|-------------|
 | [💾 Montar Disco Externo para Backups](https://github.com/blakpat/Proxmox/wiki/Montar-Disco-Externo-en-Proxmox-para-Backups) | Configuración de discos externos para almacenamiento de backups sin perder datos existentes. |
+| [💾 Actualizar Proxmox VE de 8.4 a 9.1](https://github.com/blakpat/Proxmox/wiki/Actualizar-Proxmox-VE-de-8.4-a-9.1) | Actualizar Proxmox VE de 8.4 a 9.1. |
+
 
 
 ## ¿Qué es Proxmox VE?
