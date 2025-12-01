@@ -6,7 +6,7 @@ Bienvenido a mi repositorio de **Proxmox VE**, donde recopilo guías paso a paso
 
 | Tema | Descripción |
 |------|-------------|
-| [💾 Montar Disco Externo para Backups](https://github.com/blakpat/Proxmox/wiki/Montar-Disco-Externo-en-Proxmox-para-Backups)) | Configuración de discos externos para almacenamiento de backups sin perder datos existentes. |
+| [💾 Montar Disco Externo para Backups](https://github.com/blakpat/Proxmox/wiki/Montar-Disco-Externo-en-Proxmox-para-Backups) | Configuración de discos externos para almacenamiento de backups sin perder datos existentes. |
 
 
 ## ¿Qué es Proxmox VE?
